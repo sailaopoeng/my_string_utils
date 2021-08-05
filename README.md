@@ -1,2 +1,7 @@
-# my_string_utils
-String Utilities I frequently use. Build with React
+# Simple String parse functions
+
+Javascript functions that parse 
+- JSON -> Escaped String 
+- Escapted String -> JSON
+- URL Paramters -> JSON
+- JSON -> URL Parameter
