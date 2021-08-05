@@ -6,7 +6,7 @@ const NavLink = ()=> {
     return (
         <Navbar bg="light" expand="lg">
             <Container>
-                <Navbar.Brand href="/">String Functions</Navbar.Brand>
+                <Navbar.Brand href={process.env.PUBLIC_URL + "/"}>String Functions</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <LinkBar classDef="me-auto" />
