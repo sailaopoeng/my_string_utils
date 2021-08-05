@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my_string_utils/static/css/main.1a23e5c4.chunk.css",
-    "main.js": "/my_string_utils/static/js/main.0aafdbff.chunk.js",
-    "main.js.map": "/my_string_utils/static/js/main.0aafdbff.chunk.js.map",
+    "main.js": "/my_string_utils/static/js/main.21e6eca9.chunk.js",
+    "main.js.map": "/my_string_utils/static/js/main.21e6eca9.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/my_string_utils/static/js/react-syntax-highlighter_languages_refractor_abap.e6a772a7.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/my_string_utils/static/js/react-syntax-highlighter_languages_refractor_abap.e6a772a7.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/my_string_utils/static/js/react-syntax-highlighter_languages_refractor_actionscript.39255a9d.chunk.js",
@@ -323,6 +323,6 @@
     "static/css/153.ab3d1b93.chunk.css",
     "static/js/153.ce897014.chunk.js",
     "static/css/main.1a23e5c4.chunk.css",
-    "static/js/main.0aafdbff.chunk.js"
+    "static/js/main.21e6eca9.chunk.js"
   ]
 }
