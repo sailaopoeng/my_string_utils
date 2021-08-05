@@ -9,7 +9,7 @@ import UrlparamsToJson from './components/UrlparamsToJson';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/my_string_utils" >
       <div className="App container mt-5">
         <NavLink />
         <Switch>
