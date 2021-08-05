@@ -9,15 +9,15 @@ import UrlparamsToJson from './components/UrlparamsToJson';
 
 function App() {
   return (
-    <Router basename="/my_string_utils" >
+    <Router basename="/" >
       <div className="App container mt-5">
         <NavLink />
         <Switch>
           <Route path={process.env.PUBLIC_URL + "/"} exact><Home /></Route>
-          <Route path={process.env.PUBLIC_URL + "/json_to_string"} ><JsonToString /></Route>
-          <Route path={process.env.PUBLIC_URL + "/string_to_json"} ><StringToJson /></Route>
-          <Route path={process.env.PUBLIC_URL + "/json_to_urlparams"} ><JsonToUrlparams /></Route>
-          <Route path={process.env.PUBLIC_URL + "/urlparams_to_json"} ><UrlparamsToJson /></Route>
+          <Route path={process.env.PUBLIC_URL + "/json_to_string/"} ><JsonToString /></Route>
+          <Route path={process.env.PUBLIC_URL + "/string_to_json/"} ><StringToJson /></Route>
+          <Route path={process.env.PUBLIC_URL + "/json_to_urlparams/"} ><JsonToUrlparams /></Route>
+          <Route path={process.env.PUBLIC_URL + "/urlparams_to_json/"} ><UrlparamsToJson /></Route>
         </Switch>
       </div>
     </Router>
